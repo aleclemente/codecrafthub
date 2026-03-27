@@ -25,7 +25,7 @@ Design the backend server-side architecture for this learning platform and devel
 
 #### Requirements
 
-- Use Java with Spring Boot framework
+- Use Java.Maven, Spring Boot 3.x framework
 - Store course data in a simple JSON text file (NO database needed)
 - No authentication or user management needed
 - Focus on learning REST API basics
